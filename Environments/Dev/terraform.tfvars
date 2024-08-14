@@ -218,7 +218,7 @@ Jay-project-Repo-linux-vm = {
     secret_password           = "userpasswordvm02"
   }
   linuxvm02 = {
-    linux_vm_name             = "Frontend-vm2"
+    linux_vm_name             = "backend-vm"
     rg_name                   = "Jay-rg--dev"
     location                  = "eastasia"
     vm_size                   = "Standard_DS1_v2"
